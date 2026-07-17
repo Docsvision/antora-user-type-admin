@@ -1,0 +1,9 @@
+name: user-type-common
+version: ~
+title: Раздел администратора Docsvision
+asciidoc:
+  attributes:
+    att: 'val'
+
+nav:
+- modules/admin/type-admin.adoc

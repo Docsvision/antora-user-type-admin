@@ -1,0 +1,6 @@
+** Администрирование {of-sm}
+*** xref:6.1@solutionmngr:admin:install.adoc[]
+*** xref:6.1@solutionmngr:admin:update-module.adoc[]
+*** xref:6.1@solutionmngr:admin:admin-functions.adoc[]
+*** xref:6.1@solutionmngr:admin:potential-errors.adoc[]
+*** xref:6.1@solutionmngr:admin:ldaps-ald.adoc[]

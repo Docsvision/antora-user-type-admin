@@ -1,0 +1,5 @@
+** Администрирование модуля {tw}
+*** xref:6.1@teamwork:admin:install.adoc[]
+*** xref:6.1@teamwork:admin:calendar.adoc[]
+*** xref:6.1@teamwork:admin:kanban.adoc[]
+*** xref:6.1@teamwork:admin:update-module.adoc[]

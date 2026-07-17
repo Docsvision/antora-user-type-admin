@@ -1,0 +1,4 @@
+** Администрирование {of-mir}
+*** xref:6.1@m4d-registry:admin:install.adoc[]
+*** xref:6.1@m4d-registry:admin:update-module.adoc[]
+*** xref:6.1@m4d-registry:admin:connection-settings.adoc[]

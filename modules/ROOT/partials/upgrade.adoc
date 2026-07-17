@@ -1,0 +1,3 @@
+** xref:dv6@upgrade:ROOT:index.adoc[]
+** xref:dv6@upgrade:ROOT:key-changes.adoc[]
+** xref:dv6@upgrade:ROOT:rights.adoc[]

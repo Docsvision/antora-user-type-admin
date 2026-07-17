@@ -1,0 +1,7 @@
+** Администрирование Службы {ws}
+*** xref:6.1@workerservice:admin:install.adoc[]
+*** xref:6.1@workerservice:admin:update-module.adoc[]
+*** xref:6.1@workerservice:admin:launch.adoc[]
+*** xref:6.1@workerservice:admin:work-log.adoc[]
+*** xref:6.1@workerservice:admin:connect-https.adoc[]
+*** xref:6.1@workerservice:admin:msg-autoremove.adoc[]

@@ -1,0 +1,5 @@
+** Администрирование {of-sett-serv}
+*** xref:6.1@settings-service:admin:install.adoc[]
+*** xref:6.1@settings-service:admin:update-module.adoc[]
+*** xref:6.1@settings-service:admin:connect-https.adoc[]
+*** xref:6.1@settings-service:admin:log.adoc[]

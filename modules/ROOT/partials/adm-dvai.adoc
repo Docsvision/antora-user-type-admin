@@ -1,0 +1,5 @@
+** Администрирование модуля {dv} AI
+*** xref:6.1@ai-module:admin:install.adoc[]
+*** xref:6.1@ai-module:admin:post-config.adoc[]
+*** xref:6.1@ai-module:admin:functions.adoc[]
+*** xref:6.1@ai-module:admin:update-module.adoc[]
