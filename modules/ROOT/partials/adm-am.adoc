@@ -1,10 +1,3 @@
-** Администрирование модуля {am} 6.1
-*** xref:6.1@archivemgmt:admin:install.adoc[]
-*** xref:6.1@archivemgmt:admin:update-module.adoc[]
-*** xref:6.1@archivemgmt:admin:administration.adoc[]
-**** xref:6.1@archivemgmt:admin:security.adoc[]
-**** xref:6.1@archivemgmt:admin:role-model.adoc[]
-**** xref:6.1@archivemgmt:admin:responsible-role.adoc[]
 ** Администрирование модуля {am} 6.2
 *** xref:6.2@archivemgmt:admin:install.adoc[]
 *** xref:6.2@archivemgmt:admin:update-module.adoc[]
